@@ -5,6 +5,7 @@ body{
     font-weight: normal;
     font-size: 70pt;
     text-decoration: underline;
+    margin-top:0px;
 }
 #recommended{
     float: left;
@@ -39,4 +40,19 @@ body{
     color: blue;
     font-weight: bold;
     background-color: #ccc5c5;
+}
+/*=========================LANDING PAGE===============================*/
+#details{
+    font-size: 30px;
+}
+#submitButton{
+    font-size: 55px;
+    background-color: green;
+    color: white;
+}
+#submitButtonF{
+    margin-top:50px;
+    font-size: 55px;
+    background-color: green;
+    color: white;
 }
