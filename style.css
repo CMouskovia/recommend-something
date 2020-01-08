@@ -42,7 +42,7 @@ body{
     background-color: #ccc5c5;
 }
 /*=========================LANDING PAGE===============================*/
-#details{
+.details{
     font-size: 30px;
 }
 #submitButton{
